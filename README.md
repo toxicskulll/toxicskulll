@@ -82,7 +82,6 @@ if coffee_level < CRITICAL:
 </p>
 
 ---
----
 
 ## 🎧 Coding Music & Vibe Booster
 
@@ -101,6 +100,7 @@ if coffee_level < CRITICAL:
 <p align="center">
   <img src="https://media.tenor.com/XLJ0yFQxjvIAAAAd/coding.gif" width="300"/>
 </p>
+---
 ---
 
 ## 🏆 Achievements Unlocked
