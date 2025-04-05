@@ -1,4 +1,4 @@
-name: 🛠 Update GitHub Stats
+name: 🛠 Dynamic README Generator
 
 on:
   schedule:
@@ -6,23 +6,28 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  build-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: 📥 Checkout
+      - name: 📥 Checkout code
         uses: actions/checkout@v3
 
-      - name: 🔄 Generate Snake Commit GIF
-        uses: Platane/snk@v3
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: toxicskulll
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          python-version: 3.10
 
-      - name: 💾 Push Snake GIF
+      - name: ⚡ Install deps
+        run: pip install requests
+
+      - name: 🧠 Run generator
+        run: python generate_readme.py
+
+      - name: 🚀 Commit & Push README
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation"
+          git config user.name "readme-bot"
+          git config user.email "readme-bot@github.com"
+          git add README.md
+          git commit -m "🔁 Auto-update README"
           git push
