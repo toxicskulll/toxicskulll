@@ -165,11 +165,3 @@ if coffee_level < CRITICAL:
 </p>
 
 ---
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" />
-</p>
-```
-
----
