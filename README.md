@@ -1,4 +1,3 @@
-```md
 <h1 align="center">🔥 Aadishesh Padasalgi aka toxicskulll 🔥</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&width=600&lines=Engineer+⚖️;Open+Source+Addict+🤓;LLM+Wrangler+🖥️;FastAPI+Fanatic+⚡;Full-Time+Code+Wizard+🧚;Part-Time+Meme+Dealer+🎩;Chaos+Engineer+💥;Bug+Hunter+🐛;API+Architect+🏗️" />
