@@ -82,15 +82,6 @@ if coffee_level < CRITICAL:
 </p>
 
 ---
-
-Here you go, adding **chaotic awesomeness** mode to your README with:
-
-- 🟢 Matrix Rain Footer  
-- 😂 Programming Jokes  
-- 🏆 Achievements Unlocked  
-- 🎶 Terminal-style Audio Visualizer  
-- 💀 Full chaotic energy
-
 ---
 
 ## 🧩 Random Quote
