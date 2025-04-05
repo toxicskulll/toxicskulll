@@ -83,39 +83,93 @@ if coffee_level < CRITICAL:
 
 ---
 
+Here you go, adding **chaotic awesomeness** mode to your README with:
+
+- 🟢 Matrix Rain Footer  
+- 😂 Programming Jokes  
+- 🏆 Achievements Unlocked  
+- 🎶 Terminal-style Audio Visualizer  
+- 💀 Full chaotic energy
+
+---
+
 ## 🧩 Random Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+<div align="center">
+
 ```diff
-! "It's not a bug, it's an undocumented feature" - Every developer ever !
+! "It's not a bug, it's an undocumented feature" - Every dev, ever 👨‍💻
++ Confidence = 90% of coding. Other 10%? Googling.
+- When in doubt, blame the intern.
+```
+
+</div>
+
+---
+
+## 🎧 Coding Music & Vibe Booster
+
+<p align="center">
+  <a href="https://lofiatcafe.co" target="_blank">
+    <img src="https://img.shields.io/badge/Lofi_Beats-☕️ Chill-vibes-pink?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+    <img src="https://img.shields.io/badge/Synthwave-🌌 Time_Traveler-purple?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=5qap5aO4i9A" target="_blank">
+    <img src="https://img.shields.io/badge/Coding_Mode-🔊 Focused_blue?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/XLJ0yFQxjvIAAAAd/coding.gif" width="300"/>
+</p>
+
+---
+
+## 😂 Programming Joke of the Day
+
+```bash
+> Why do Java developers wear glasses?
+> Because they don’t C# 🤓
+```
+
+```bash
+> How many programmers does it take to change a light bulb?
+> None. It’s a hardware problem. 🧠
 ```
 
 ---
 
-## 🎧 Coding Music
+## 🏆 Achievements Unlocked
+
 <p align="center">
-  <a href="https://lofiatcafe.co" target="_blank">
-    <img src="https://img.shields.io/badge/Lofi_Beats-🎧-pink?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-    <img src="https://img.shields.io/badge/Synthwave-🎵-purple?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=5qap5aO4i9A" target="_blank">
-    <img src="https://img.shields.io/badge/Coding_Mode-🎹-blue?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/🌐_Built_5%2B_Websites-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_LLM_Wrangler-certified-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_FastAPI_Addict-200_OK-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕_Survives_On_Coffee-critical?style=for-the-badge&logo=buy-me-a-coffee" />
 </p>
 
 ---
----
 
 ## 📫 Wanna Talk?
+
 <p align="center">
-  <a href="mailto:aadishesh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aadishesh-padasalgi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://aadisheshpadasalgi.in"><img src="https://img.shields.io/badge/🌐_Portfolio-black?style=for-the-badge" /></a>
-  <a href="https://github.com/toxicskulll"><img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:aadishesh05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aadishesh-padasalgi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://aadisheshpadasalgi.in">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-black?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/toxicskulll">
+    <img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -127,9 +181,10 @@ if coffee_level < CRITICAL:
 
 ---
 
-## 🔥 Final Log
+## 🔥 Final Log: `shutdown -toxicskulll`
+
 ```bash
-> FINAL COMMAND:
+> FINAL COMMAND INITIATED:
   ███████╗██╗   ██╗██████╗ ███████╗███████╗
   ██╔════╝██║   ██║██╔══██╗██╔════╝██╔════╝
   ███████╗██║   ██║██║  ██║█████╗  ███████╗
@@ -137,9 +192,31 @@ if coffee_level < CRITICAL:
   ███████║╚██████╔╝██████╔╝███████╗███████║
   ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 
-> toxicskulll has left the terminal.
-> SYSTEM WILL REBOOT AFTER COFFEE INJECTION...
+> toxicskulll has left the terminal...
+> STATUS: Dreaming in code 💭
+> SYSTEM REBOOT IN: [ ☕ + 😴 ] seconds
 ```
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" />
+</p>
+
+---
+
+## 🟢 Matrix Rain Footer
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600" />
+</p>
+
+<p align="center"><i>“There is no Ctrl + Z in real life. Code wisely.”</i></p>
+```
+
+---
+
+Let me know if you want to turn this into a dynamic GitHub Action, update daily jokes, or pull quotes from an API. Ready to take this README to a whole new level 🚀
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
