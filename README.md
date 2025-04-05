@@ -86,9 +86,6 @@ if coffee_level < CRITICAL:
 ## 🎧 Coding Music & Vibe Booster
 
 <p align="center">
-  <a href="https://lofiatcafe.co" target="_blank">
-    <img src="https://img.shields.io/badge/Lofi_Beats-☕️ Chill-vibes-pink?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
   <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
     <img src="https://img.shields.io/badge/Synthwave-🌌 Time_Traveler-purple?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -110,7 +107,6 @@ if coffee_level < CRITICAL:
   <img src="https://img.shields.io/badge/☕_Survives_On_Coffee-critical?style=for-the-badge&logo=buy-me-a-coffee" />
 </p>
 
----
 
 ## 📫 Wanna Talk?
 
@@ -129,14 +125,12 @@ if coffee_level < CRITICAL:
   </a>
 </p>
 
----
 
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=toxicskulll&label=🔥+Profile+Views&color=orange&style=flat-square" />
 </p>
 
----
 
 ## 🔥 Final Log: `shutdown -toxicskulll`
 
