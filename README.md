@@ -84,23 +84,6 @@ if coffee_level < CRITICAL:
 ---
 ---
 
-## 🧩 Random Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<div align="center">
-
-```diff
-! "It's not a bug, it's an undocumented feature" - Every dev, ever 👨‍💻
-+ Confidence = 90% of coding. Other 10%? Googling.
-- When in doubt, blame the intern.
-```
-
-</div>
-
----
-
 ## 🎧 Coding Music & Vibe Booster
 
 <p align="center">
@@ -120,19 +103,6 @@ if coffee_level < CRITICAL:
 </p>
 
 ---
-
-## 😂 Programming Joke of the Day
-
-```bash
-> Why do Java developers wear glasses?
-> Because they don’t C# 🤓
-```
-
-```bash
-> How many programmers does it take to change a light bulb?
-> None. It’s a hardware problem. 🧠
-```
-
 ---
 
 ## 🏆 Achievements Unlocked
@@ -195,20 +165,6 @@ if coffee_level < CRITICAL:
 </p>
 
 ---
-
-## 🟢 Matrix Rain Footer
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600" />
-</p>
-
-<p align="center"><i>“There is no Ctrl + Z in real life. Code wisely.”</i></p>
-```
-
----
-
-Let me know if you want to turn this into a dynamic GitHub Action, update daily jokes, or pull quotes from an API. Ready to take this README to a whole new level 🚀
-
 <p align="center">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
