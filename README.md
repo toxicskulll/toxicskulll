@@ -7,10 +7,6 @@
   <img src="https://media.tenor.com/OyUVgXu-F1oAAAAd/hacker.gif" width="400"/>
   <img src="https://media.tenor.com/cUYZu8DoQ1YAAAAC/hacker-hackerman.gif" width="400"/>
 </p>
-
-> 🌓 Tip: For optimal chaos, view in **Dark Mode**.  
-> Light mode users proceed at your own risk ⚠️
-
 ---
 
 ## ⚙️ System Boot Sequence
@@ -43,25 +39,6 @@ $ sudo initialize_dev_environment
 </p>
 
 ---
-
-## 🚀 Current Missions
-```yaml
-active_projects:
-  - name: "[AI Research Assistant](https://github.com/toxicskulll/ai-research-assistant)"
-    status: "Teaching robots to read papers so I don't have to 🤖"
-    completion: 73%
-    caffeineRequired: CRITICAL
-
-  - name: "[Smart Food Court App](https://github.com/toxicskulll/food-court-app)"
-    status: "Because students deserve better than mystery meat 🍔"
-    completion: 81%
-    bugsSquashed: 127
-
-  - name: "[College Club Operations](https://github.com/toxicskulll/club-ops)"
-    status: "Running a club with startup chaos energy 🧩"
-    completion: ONGOING
-    sanityRemaining: 32%
-```
 
 ---
 
@@ -132,30 +109,6 @@ if coffee_level < CRITICAL:
 </p>
 
 ---
-
-## 🧙‍♂️ Fun Facts About Me
-```json
-{
-  "debug_stories": [
-    "Fixed a production bug at 3AM with only Stack Overflow and tears 🐛",
-    "Debugged my way out of a segfault with memes 🔥",
-    "I talk to LLMs more than humans (they understand me better) 🤖",
-    "Once wrote 2000 lines of code in a single day. 1999 were bugs 💀",
-    "My code works perfectly in my dreams 💭"
-  ],
-  "daily_routine": [
-    "Coffee ☕",
-    "Code 💻",
-    "Cursing at bugs 🤬",
-    "Coffee again ☕",
-    "More coding 💻",
-    "Pretend to understand the error message 🤔",
-    "Coffee again (send help) ☕",
-    "Repeat 🔄"
-  ]
-}
-```
-
 ---
 
 ## 📫 Wanna Talk?
