@@ -1,0 +1,28 @@
+name: 🛠 Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v3
+
+      - name: 🔄 Generate Snake Commit GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: toxicskulll
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: 💾 Push Snake GIF
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation"
+          git push
