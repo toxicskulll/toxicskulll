@@ -32,8 +32,8 @@
 ### 🔥 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadisheshpadasalgi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aadisheshpadasalgi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toxicskulll&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=toxicskulll&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
