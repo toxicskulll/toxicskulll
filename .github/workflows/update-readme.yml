@@ -1,33 +1,31 @@
-name: 🛠 Dynamic README Generator
+name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+    - cron: "0 */6 * * *" # Runs every 6 hours
   workflow_dispatch:
 
 jobs:
-  build-readme:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: 📥 Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: 🐍 Setup Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.10
+          python-version: '3.10'
 
-      - name: ⚡ Install deps
+      - name: Install requirements
         run: pip install requests
 
-      - name: 🧠 Run generator
-        run: python generate_readme.py
+      - name: Run README Generator
+        run: python scripts/update_readme.py
 
-      - name: 🚀 Commit & Push README
+      - name: Commit and Push changes
         run: |
-          git config user.name "readme-bot"
-          git config user.email "readme-bot@github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add README.md
-          git commit -m "🔁 Auto-update README"
+          git commit -m "🛠️ Auto-update README"
           git push
