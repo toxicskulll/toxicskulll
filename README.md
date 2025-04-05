@@ -7,7 +7,6 @@
   <img src="https://media.tenor.com/OyUVgXu-F1oAAAAd/hacker.gif" width="400"/>
   <img src="https://media.tenor.com/cUYZu8DoQ1YAAAAC/hacker-hackerman.gif" width="400"/>
 </p>
----
 
 ## ⚙️ System Boot Sequence
 ```bash
