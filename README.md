@@ -83,21 +83,6 @@ if coffee_level < CRITICAL:
 
 ---
 
-## 🎧 Coding Music & Vibe Booster
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-    <img src="https://img.shields.io/badge/Synthwave-🌌 Time_Traveler-purple?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=5qap5aO4i9A" target="_blank">
-    <img src="https://img.shields.io/badge/Coding_Mode-🔊 Focused_blue?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/XLJ0yFQxjvIAAAAd/coding.gif" width="300"/>
-</p>
-
 ## 🏆 Achievements Unlocked
 
 <p align="center">
