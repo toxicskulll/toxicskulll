@@ -24,6 +24,12 @@ $ sudo initialize_dev_environment
 
 ---
 
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toxicskulll&theme=minimal&hide_border=true" />
+</div>
+
 ## 🧠 Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,ts,js,docker,git,github,linux,html,css,vscode,postman" />
